@@ -35,7 +35,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     </td>
     <table border = 1 align = "CENTER" >
     	<tr>
-    		<td> AuthorName </td>
+    		<td> AuthorName !</td>
     		<td> Content </td>
     		<td> ISBN </td>
     		<td> Legend </td>
