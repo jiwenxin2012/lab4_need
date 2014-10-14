@@ -53,7 +53,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     					</s:form>
     					<s:a href = "%{URL}" >
     					More Detail
-    					</s:a>
+    					</s:a>--
     				</td>
     				<td>
     					--
