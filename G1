@@ -44,7 +44,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     			<tr>
     				<td> <s:property value = "#i.author.name"/> </td>
     				<td> <s:property value = "#i.title"/> </td>
-    				<td> <s:property value = "#i.isbn"/> </td>
+    				<td> <s:property value = "#i.isbn1"/> </td>
     				<td>
     					<s:form id = "delete" action = "QUERY_DETAIL" >
     					<s:submit value = "delete">
