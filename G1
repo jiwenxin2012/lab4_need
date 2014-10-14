@@ -48,7 +48,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     				<td>
     					<s:form id = "delete" action = "QUERY_DETAIL" >
     					<s:submit value = "delete">
-    						<s:hidden name = "1isbn" value = "#i.isbn"/>
+    						<s:hidden name = "1isbn999" value = "#i.isbn"/>
     						</s:submit>>
     					</s:form>
     					<s:a href = "%{URL}" >
